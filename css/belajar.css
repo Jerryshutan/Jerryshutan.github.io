@@ -1,0 +1,16 @@
+.tulisanijo {
+	color:white;
+	text-align: center;
+	width: 100px;
+	height: 200px;
+	background-color: purple;
+
+}
+.ketik {
+	color: pink;
+	font-size: 500%;
+	text-align: right;
+	width: 1000px;
+	height: 100px;
+	background-color: black;
+}
